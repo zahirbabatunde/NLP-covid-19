@@ -1,5 +1,5 @@
 # NLP COVID-19 Research Papers
-This project uses Natural Language Processing (NLP) to develop a tool that will text-mine the database of research articles to gain useful insights about COVID-19, how to improve vaccination efforts and how to better inform healthcare system to tackle the problem. This project:
+This project uses Natural Language Processing (NLP) to develop a tool that will text-mine the database of research articles to gain useful insights about COVID-19, how to improve vaccination efforts and how to better inform healthcare system to tackle the problem. This project involves:
  - Parsing and cleaning the dataset.
  - Performing Exploratory Data Analysis (EDA) on the COVID-19 research paper.
  - Using unsupervised machine learning algorithm (k-Means Clustering) to group related articles.
